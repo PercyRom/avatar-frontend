@@ -24,10 +24,7 @@ Ext.define('demo.view.main.MainModel', {
             fields: [
                 { name: 'name' },
                 { name: 'url' }
-            ],
-            // listeners: {
-            //     beforeload: 'onStPokemonBeforeload'
-            // }
+            ]
         }
     }
 });
